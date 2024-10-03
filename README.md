@@ -21,3 +21,26 @@ Tech Stack
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js (or mention the actual backend used)
 Database: MongoDB (or SQL if you used that)
+
+Usage
+
+Sign up for a new account or Sign in with an existing account.
+Create new discussion posts or reply to other users’ threads.
+Search for topics using the search bar.
+Rate posts using the star rating system.
+
+
+Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+
+For any inquiries or feedback, reach out at:
+
+Email: himanshutalekar03@gmail.com
+LinkedIn: Himanshu Talekar
